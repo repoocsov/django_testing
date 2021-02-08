@@ -1,0 +1,1 @@
+Using this repo to mark my django learning progress. Refollowing this demo for now https://docs.djangoproject.com/en/3.1/intro/tutorial01/
